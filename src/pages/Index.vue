@@ -824,7 +824,7 @@ export default {
           tag: "New Category, Test Category",
         },
         {
-          img: require("assets/blog3.jpg"),
+          img: require("assets/Blog3.jpg"),
           name: "New world wide payment system",
           title: "June 18, 2015",
           new: "Currency, News",
