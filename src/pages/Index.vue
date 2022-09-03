@@ -810,14 +810,14 @@ export default {
       ],
       cards: [
         {
-          img: require("assets/blog1.jpg"),
+          img: require("assets/Blog1.jpg"),
           name: "Exchange rate of bitcoin",
           title: "January 17, 2018",
           new: "Exchange",
           tag: "foreign currency, rates",
         },
         {
-          img: require("assets/blog2.jpg"),
+          img: require("assets/Blog2.jpg"),
           name: "Fluctuating fortunes of Bitcoin",
           title: "January 10, 2018",
           new: "Finance, News",
