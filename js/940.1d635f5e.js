@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkdigibit"]=self["webpackChunkdigibit"]||[]).push([[940],{4940:(e,i,s)=>{s.r(i),s.d(i,{default:()=>b});var t=s(4379),n=s(7518),a=s.n(n);const c={},u=c,b=u;a()(c,"components",{QPage:t.Z})}}]);
